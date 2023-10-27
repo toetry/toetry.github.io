@@ -1,1 +1,0 @@
-[emiya-doc](https://toetry.github.io)
