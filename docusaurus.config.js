@@ -70,7 +70,7 @@ const config = {
             position: 'left',
             label: '文档',
           },*/
-          {to: '/docs/category/开始使用', label: '开始使用', position: 'left'},
+          {to: '/docs/开始使用', label: '开始使用', position: 'left'},
           {to: '/docs/category/开发文档', label: '开发文档', position: 'left'},
           {
             href: 'https://github.com/Lixeer/emiya/blob/main/docs/插件.md',

@@ -2,27 +2,24 @@
 title: emiya
 ---
 
-<p align='center'>
-<img src='./img/YA.png' width='200' alt='logo' aling='middle'/>
-</p>
-
-
 <div align="center">
+<img src='./img/YA.png' width='200' alt='logo' aling='middle'/>
 
 # emiya
 _✨为QQ机器人开发者提供新路径✨_  
 _✨敏捷,快速,轻量的解决方案✨_
-<br />
 <img src="https://img.shields.io/github/license/Lixeer/emiya" alt="license" />
 <img src="https://img.shields.io/github/stars/Lixeer/emiya" alt="stars" />
-<img src="https://img.shields.io/badge/Support-Python%203.8%2B-green?" />
+<img src="https://img.shields.io/badge/Support-Python%203.8%2B-green?" />  
+
+# 
+
+## [开始使用](./docs/开始使用)
 </div>
 
 
 ## 开发文档
 
-
-- [安装](./docs/category/%E5%BC%80%E5%A7%8B%E4%BD%BF%E7%94%A8)
 - [设计与实现](./docs/%E5%BC%80%E5%8F%91%E6%96%87%E6%A1%A3/build-emiya/%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0)
 - [规范](./docs/%E5%BC%80%E5%8F%91%E6%96%87%E6%A1%A3/build-emiya/%E8%A7%84%E8%8C%83)
 - [插件开发](./docs/category/2-plugins-docs)
